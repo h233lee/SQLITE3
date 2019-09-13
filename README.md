@@ -1,1 +1,1 @@
-# This project connects to a database and uses SQL queries to manipulate data. Then, we will help identify business opportunities within.
+# This project connects to a database and uses SQL queries to manipulate data.
